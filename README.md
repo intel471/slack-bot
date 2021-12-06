@@ -23,7 +23,7 @@ Titan API credentials.
 
 ### Installation
 
-You can go to Slack App Directory and search for **Intel 471 Bot** app or you can install it directly from [here](https://intel471.slack.com/apps/A024PQWJJLD-intel-471-bot?tab=more_info).
+You can go to Slack App Directory and search for **Intel 471 Bot** app or you can install it directly from [here](https://messagingbot.intel471.com/slack).
 
 After clicking **Add to Slack** button you'll be redirected to Slack's installation page where you choose the workspace (upper-right corner) and the channel where you want to install the bot to.
 
